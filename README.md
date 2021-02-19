@@ -25,7 +25,7 @@ java -jar
 
 # Example
 
-![Alt Flight Network](/Users/krishnande/flight.png)
+![Alt Flight Network](flight.png)
 
 ***Given the above flight network***
 
