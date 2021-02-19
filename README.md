@@ -25,7 +25,7 @@ java -jar
 
 # Example
 
-![Alt Flight Network](flight.png)
+![Alt Flight Network](https://github.com/deekrishn/itinerary-calculator/blob/main/Flight.png)
 
 ***Given the above flight network***
 
