@@ -17,12 +17,6 @@ A flight controller allowing you to:
 An itinerary controller allowing you:
 1. Find the cheapest prices from source city to destination city within N number of stops.
 
-# Usage
-
-***To start the server locally***
-
-java -jar
-
 # Example
 
 ![Alt Flight Network](https://github.com/deekrishn/itinerary-calculator/blob/main/Flight.png)
@@ -32,4 +26,18 @@ java -jar
 Cheapest itinerary with a maximum of 1 stop (layover) from San Fransisco to Frankfurt is the from 
 San Fransisco -> Atlanta -> Frankfurt, costing 900. However, if we increase the number of stops to 2, we can get a 
 cheaper route from San Fransisco -> Boston -> Paris -> Frankfurt, costing 600.
-   
+
+# Usage
+
+***To start the server locally***
+
+java -jar network-0.0.1-SNAPSHOT.jar
+
+***Currently hosted on AWS***
+http://ec2-13-52-81-91.us-west-1.compute.amazonaws.com:8080/swagger-ui.html  
+
+# Misc
+For building this app, I used:
+1. SpringBoot with JPA
+2. Integrated with Swagger UI.
+3. Hosted an AWS
