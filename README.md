@@ -34,8 +34,8 @@ http://ec2-13-52-81-91.us-west-1.compute.amazonaws.com:8080/swagger-ui.html
 
 ***To start the server locally***
 
-mvn clean install
-java -jar <network-0.0.1-SNAPSHOT>.jar
+1. mvn clean install
+2. java -jar <network-0.0.1-SNAPSHOT>.jar
 
 # Misc
 For building this app, I used:
