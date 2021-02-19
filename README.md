@@ -1,6 +1,6 @@
 # Introduction
 
-***Given:***
+***You have:***
 
 A city controller allowing you to:
 1. Add a city. A city object consists of city name and country.
@@ -11,8 +11,6 @@ A flight controller allowing you to:
 2. Look at existing flights.
 3. Update a flight
 4. Delete a flight
-
-***You have***
 
 An itinerary controller allowing you:
 1. Find the cheapest prices from source city to destination city within N number of stops.
