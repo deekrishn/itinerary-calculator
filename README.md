@@ -39,4 +39,4 @@ http://ec2-13-52-81-91.us-west-1.compute.amazonaws.com:8080/swagger-ui.html
 For building this app, I used:
 1. SpringBoot with JPA
 2. Integrated with Swagger UI.
-3. Hosted an AWS
+3. Hosted on AWS
