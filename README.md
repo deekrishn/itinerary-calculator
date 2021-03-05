@@ -21,9 +21,9 @@ An itinerary controller allowing you:
 
 ***Given the above flight network***
 
-Cheapest itinerary with a maximum of 1 stop (layover) from San Fransisco to Frankfurt is the from 
-San Fransisco -> Atlanta -> Frankfurt, costing 900. However, if we increase the number of stops to 2, we can get a 
-cheaper route from San Fransisco -> Boston -> Paris -> Frankfurt, costing 600.
+Cheapest itinerary with a maximum of 1 stop (layover) from San Francisco to Frankfurt is the from 
+San Francisco -> Atlanta -> Frankfurt, costing 900. However, if we increase the number of stops to 2, we can get a 
+cheaper route from San Francisco -> Boston -> Paris -> Frankfurt, costing 600.
 
 # Usage
 
