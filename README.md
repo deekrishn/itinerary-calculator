@@ -28,7 +28,7 @@ cheaper route from San Francisco -> Boston -> Paris -> Frankfurt, costing 600.
 # Usage
 
 ***Currently hosted on AWS***
-http://ec2-13-52-81-91.us-west-1.compute.amazonaws.com:8080/swagger-ui.html  
+http://ec2-52-8-74-77.us-west-1.compute.amazonaws.com:8080/swagger-ui.html 
 
 ***To start the server locally***
 
